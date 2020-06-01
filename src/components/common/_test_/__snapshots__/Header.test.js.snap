@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Test Matches Snapshot 1`] = `
+<header
+  className="main-header"
+>
+  <nav>
+    <ul
+      className="sc-AxjAm fPMbNd something"
+    >
+      <li>
+        <a
+          href="/admin"
+        >
+          Admin
+        </a>
+      </li>
+      <li>
+        <a
+          href="/employee"
+        >
+          Employee
+        </a>
+      </li>
+    </ul>
+  </nav>
+</header>
+`;
+
+exports[`Headers Test Matches Snapshot 1`] = `
+<header
+  className="main-header"
+>
+  <nav>
+    <ul
+      className="sc-AxjAm fPMbNd something"
+    >
+      <li>
+        <a
+          href="/admin"
+        >
+          Admin
+        </a>
+      </li>
+      <li>
+        <a
+          href="/employee"
+        >
+          Employee
+        </a>
+      </li>
+    </ul>
+  </nav>
+</header>
+`;
+
+exports[`Matches Snapshot 1`] = `
+<header
+  className="main-header"
+>
+  <nav>
+    <ul
+      className="sc-AxjAm fPMbNd something"
+    >
+      <li>
+        <a
+          href="/admin"
+        >
+          Admin
+        </a>
+      </li>
+      <li>
+        <a
+          href="/employee"
+        >
+          Employee
+        </a>
+      </li>
+    </ul>
+  </nav>
+</header>
+`;

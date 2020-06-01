@@ -1,0 +1,241 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Assigned Employees Component Test Assigned Employee List Component Test Check Matches Snapshot Display Employee 1`] = `
+<div
+  className="main-container"
+>
+  <div
+    className="sc-fzqBZW bwulSy"
+  >
+    <div
+      className="sc-fzoyAV ghgnHc"
+    >
+      <button
+        className="sc-fzoLag sc-fzoXzr bchcwt"
+        onClick={[Function]}
+      >
+        Add
+      </button>
+      <span>
+        <a
+          href="/"
+        >
+          Home
+        </a>
+      </span>
+    </div>
+    <ul
+      className="sc-fzpjYC funJtt"
+    >
+      <li>
+        <div
+          className="sc-fzqNJr byqwuN"
+        >
+          <label>
+            First name: 
+          </label>
+          <span
+            className="sc-fznxsB kxNAV"
+          >
+            Mau
+          </span>
+          <label>
+            Last name: 
+          </label>
+          <span
+            className="sc-fznxsB kxNAV"
+          >
+            Maya
+          </span>
+        </div>
+        <button
+          className="sc-fzoLag fjaKOX"
+          onClick={[Function]}
+        >
+          Delete
+        </button>
+        <button
+          className="sc-fzoLag fjaKOX"
+          onClick={[Function]}
+        >
+          Update
+        </button>
+        <button
+          className="sc-fzoLag fjaKOX"
+          onClick={[Function]}
+        >
+          View
+        </button>
+      </li>
+      <li>
+        <div
+          className="sc-fzqNJr byqwuN"
+        >
+          <label>
+            First name: 
+          </label>
+          <span
+            className="sc-fznxsB kxNAV"
+          >
+            Jack
+          </span>
+          <label>
+            Last name: 
+          </label>
+          <span
+            className="sc-fznxsB kxNAV"
+          >
+            Shin
+          </span>
+        </div>
+        <button
+          className="sc-fzoLag fjaKOX"
+          onClick={[Function]}
+        >
+          Delete
+        </button>
+        <button
+          className="sc-fzoLag fjaKOX"
+          onClick={[Function]}
+        >
+          Update
+        </button>
+        <button
+          className="sc-fzoLag fjaKOX"
+          onClick={[Function]}
+        >
+          View
+        </button>
+      </li>
+    </ul>
+  </div>
+</div>
+`;
+
+exports[`Assigned Employees Component Test Assigned Employee List Component Test Check Matches Snapshot Display Error 1`] = `
+<div
+  className="main-container"
+>
+  Database Error
+</div>
+`;
+
+exports[`Employee List Component Test Assigned Employee List Component Test Check Matches Snapshot Display Employee 1`] = `
+<div
+  className="main-container"
+>
+  <div
+    className="sc-fzqBZW bwulSy"
+  >
+    <div
+      className="sc-fzoyAV ghgnHc"
+    >
+      <button
+        className="sc-fzoLag sc-fzoXzr bchcwt"
+        onClick={[Function]}
+      >
+        Add
+      </button>
+      <span>
+        <a
+          href="/"
+        >
+          Home
+        </a>
+      </span>
+    </div>
+    <ul
+      className="sc-fzpjYC funJtt"
+    >
+      <li>
+        <div
+          className="sc-fzqNJr byqwuN"
+        >
+          <label>
+            First name: 
+          </label>
+          <span
+            className="sc-fznxsB kxNAV"
+          >
+            Mau
+          </span>
+          <label>
+            Last name: 
+          </label>
+          <span
+            className="sc-fznxsB kxNAV"
+          >
+            Maya
+          </span>
+        </div>
+        <button
+          className="sc-fzoLag fjaKOX"
+          onClick={[Function]}
+        >
+          Delete
+        </button>
+        <button
+          className="sc-fzoLag fjaKOX"
+          onClick={[Function]}
+        >
+          Update
+        </button>
+        <button
+          className="sc-fzoLag fjaKOX"
+          onClick={[Function]}
+        >
+          View
+        </button>
+      </li>
+      <li>
+        <div
+          className="sc-fzqNJr byqwuN"
+        >
+          <label>
+            First name: 
+          </label>
+          <span
+            className="sc-fznxsB kxNAV"
+          >
+            Jack
+          </span>
+          <label>
+            Last name: 
+          </label>
+          <span
+            className="sc-fznxsB kxNAV"
+          >
+            Shin
+          </span>
+        </div>
+        <button
+          className="sc-fzoLag fjaKOX"
+          onClick={[Function]}
+        >
+          Delete
+        </button>
+        <button
+          className="sc-fzoLag fjaKOX"
+          onClick={[Function]}
+        >
+          Update
+        </button>
+        <button
+          className="sc-fzoLag fjaKOX"
+          onClick={[Function]}
+        >
+          View
+        </button>
+      </li>
+    </ul>
+  </div>
+</div>
+`;
+
+exports[`Employee List Component Test Assigned Employee List Component Test Check Matches Snapshot Display Error 1`] = `
+<div
+  className="main-container"
+>
+  Database Error
+</div>
+`;

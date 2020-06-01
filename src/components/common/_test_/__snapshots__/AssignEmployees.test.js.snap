@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Assigned Employees Component Test Assigned Employees Component Test Check Matches Snapshot Display Employee 1`] = `
+<div
+  className="main-container"
+>
+  <div
+    className="sc-AxheI hszFvt"
+  >
+    <div
+      className="sc-AxmLO fuyvoK"
+    >
+      <span>
+        <a
+          href="/"
+        >
+          Home
+        </a>
+      </span>
+    </div>
+    <ul
+      className="sc-fzoLsD eURtDx"
+    >
+      <li>
+        <div
+          className="sc-Axmtr cRtglc"
+        >
+          <label>
+            First name: 
+          </label>
+          <span
+            className="sc-fzpans eJqXNW"
+          >
+            Mau
+          </span>
+          <label>
+            Last name: 
+          </label>
+          <span
+            className="sc-fzpans eJqXNW"
+          >
+            Maya
+          </span>
+        </div>
+        <button
+          className="sc-fzozJi hIzJCc"
+          onClick={[Function]}
+        >
+          Add Feedback
+        </button>
+      </li>
+    </ul>
+  </div>
+</div>
+`;
+
+exports[`Assigned Employees Component Test Assigned Employees Component Test Check Matches Snapshot Display Error 1`] = `
+<div
+  className="main-container"
+>
+  Database Error
+</div>
+`;

@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FeedbackList Component Test Check Feedbacklist Component Test to Match Snapshot Display 1`] = `
+<div
+  className="sc-AxheI dgwBHG feedback-list-container"
+>
+  <div
+    className="sc-Axmtr hrvXcZ"
+  >
+    <span
+      className="sc-fzpans bghwOc"
+      onClick={[Function]}
+    >
+      X
+    </span>
+    <button
+      className="sc-AxmLO guKNKF"
+      onClick={[Function]}
+    >
+      Add Feedback
+    </button>
+    <button
+      className="sc-AxmLO guKNKF"
+      onClick={[Function]}
+    >
+      Assign Feedback
+    </button>
+    <ul
+      className="sc-fzozJi fvsQND"
+    >
+      <li>
+        <p
+          className="sc-fzoLsD fpiVWW"
+        >
+          Good Job
+        </p>
+        <button
+          className="sc-AxmLO guKNKF"
+          onClick={[Function]}
+        >
+          Update
+        </button>
+      </li>
+    </ul>
+  </div>
+</div>
+`;

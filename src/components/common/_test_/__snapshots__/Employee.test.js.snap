@@ -1,0 +1,83 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Employee Component Test Check Employee Component Test to Match Snapshot Display 1`] = `
+<div
+  className="sc-AxjAm EmuRM employee-container"
+>
+  <div
+    className="sc-AxirZ ezqyFp"
+  >
+    <span
+      className="sc-AxhCb cewekA"
+      onClick={[Function]}
+    >
+      X
+    </span>
+    <label>
+      First Name: 
+    </label>
+    <input
+      className="sc-AxhUy gyiYUS"
+      defaultValue="Yama"
+      name="fname"
+      onChange={[Function]}
+    />
+    <label>
+      Last Name: 
+    </label>
+    <input
+      className="sc-AxhUy gyiYUS"
+      defaultValue="Cruz"
+      name="lname"
+      onChange={[Function]}
+    />
+    <button
+      className="sc-AxiKw LINap"
+      onClick={[Function]}
+    >
+      Update
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Feedback Component Test Check Employee Component Test to Match Snapshot Display 1`] = `
+<div
+  className="sc-AxjAm EmuRM employee-container"
+>
+  <div
+    className="sc-AxirZ ezqyFp"
+  >
+    <span
+      className="sc-AxhCb cewekA"
+      onClick={[Function]}
+    >
+      X
+    </span>
+    <label>
+      First Name: 
+    </label>
+    <input
+      className="sc-AxhUy gyiYUS"
+      defaultValue="Yama"
+      name="fname"
+      onChange={[Function]}
+    />
+    <label>
+      Last Name: 
+    </label>
+    <input
+      className="sc-AxhUy gyiYUS"
+      defaultValue="Cruz"
+      name="lname"
+      onChange={[Function]}
+    />
+    <button
+      className="sc-AxiKw LINap"
+      onClick={[Function]}
+    >
+      Update
+    </button>
+  </div>
+</div>
+`;

@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Feedback Component Test Check Feedback Component Test to Match Snapshot Display 1`] = `
+<div
+  className="sc-AxjAm EmuRM feedback-container"
+>
+  <div
+    className="sc-AxirZ ezqyFp"
+  >
+    <span
+      className="sc-AxiKw qPNqo"
+      onClick={[Function]}
+    >
+      X
+    </span>
+    <label
+      className="sc-AxgMl cJEGFC"
+    >
+      Feedback: 
+    </label>
+    <textarea
+      className="sc-AxhUy gpmBrv"
+      defaultValue="Nice Work"
+      name="feedback"
+      onChange={[Function]}
+    />
+    <button
+      className="sc-AxhCb bBarFh"
+      onClick={[Function]}
+    >
+      Update
+    </button>
+  </div>
+</div>
+`;
